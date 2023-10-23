@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<body style="background-color:powderblue;">
 <!--//![MasterHead](https://www.canva.com/design/DAFx5tFJfjg/2maMkdP1ua_Ly6xfwX41sg/edit?utm_content=DAFx5tFJfjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)--!>
 <h1 align="center">Hi 👋, I'm Fariza A A</h1>
 <h3 align="center">A passionat Flutter Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
-- 💬 Ask me about **Flutter,Python-Django**
+<p style="color:red;"> 💬 Ask me about  <b>Flutter,Python-Django</b></p>
 
-- 📫 How to reach me **farizaaaa10@gmail.com**
+<p style="color:blue;"> 📫 How to reach me <b>farizaaaa10@gmail.com</b></p>
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farizaaaa&" alt="farizaaaa" /></p>
 
-
+</body>
