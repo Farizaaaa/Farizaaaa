@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 <!--//![MasterHead](https://www.canva.com/design/DAFx5tFJfjg/2maMkdP1ua_Ly6xfwX41sg/edit?utm_content=DAFx5tFJfjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)--!>
 <h1 align="center">Hi 👋, I'm Fariza A A</h1>
 <h3 align="center">A passionat Flutter Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
-<p style="color:red;"> 💬 Ask me about  <b>Flutter,Python-Django</b></p>
+  <p style="color:red;"> 🔭 I’m currently working on <b>Flutter</b></p>
+
+<p style="color:red;"> 💬 Ask me about  <b>Flutter, Python-Django</b></p>
+<p style="color:red;"> 🌱 I’m currently learning  <b>Flutter</b></p>
+<p style="color:red;"> 👯 I’m looking to collaborate on <b>Flutter Projects</b></p>
 
 <p style="color:blue;"> 📫 How to reach me <b>farizaaaa10@gmail.com</b></p>
 
