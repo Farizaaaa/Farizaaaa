@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Fariza A A</h1>
-<h3 align="center">A passionat Flutter Developer from India</h3>
+<h1 align="center" color="white">Hi 👋, I'm Fariza A A</h1>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
 # 💫 About Me:
