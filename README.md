@@ -3,7 +3,7 @@
 ### Hi there 👋
 $${\color{red} \textbf \fontfamily{ppl}\selectfont Red}$$
 <h1 align="center" color="white">Hi 👋, I'm Fariza A A</h1>
-$${
+
 \vspace{1cm}
 
 %Example of different font sizes and types
@@ -14,7 +14,7 @@ A switch changes the style from this point to the end of the document unless ano
 \rmfamily
 
 \vspace{1cm}
-}$$
+
 <h3 align="center">A passionate Flutter Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
