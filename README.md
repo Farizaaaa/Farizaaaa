@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Flutter<br><br>💬 Ask me about Flutter, Python-Django<br><br>🌱 I’m currently learning Flutter<br><br>👯 I’m looking to collaborate on Flutter Projects<br><br>📫 How to reach me farizaaaa10@gmail.com
 
-
+[![MasterHead](https://fuertedevelopers.com/assets/Images/flutterdevelopment.gif)](https://rishavchanda.io)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/E6TNbXwa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/__fari___za____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/fariza-a-a-661820253) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://github.com/Farizaaaa/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19923552) 
 
