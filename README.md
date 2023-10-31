@@ -14,11 +14,11 @@ $${\textsf{\color{lightgreen} \textbf \large A passionate Flutter Developer from
 ${\textsf{\color{lightgreen} \textbf \large 💫 About Me:}}$
 <h1 align="left"></h1>
  
-${\textsf{\color{lightgreen} \textbf \large 🔭 I’m currently working on Flutter}}$
-${\textsf{\color{lightgreen} \textbf \large 🌱 I’m currently learning Flutter}}$
-${\textsf{\color{lightgreen} \textbf \large 💬 Ask me about Flutter, Dart, Python-Django }}$
-${\textsf{\color{lightgreen} \textbf \large 👯 I’m looking to collaborate on Flutter Projects}}$
-${\textsf{\color{lightgreen} \textbf \large 📫 How to reach me farizaaaa10@gmail.com}}$
+${\textsf{\color{lightgreen} \textbf \large 🔭 I’m currently working on Flutter}}$<br>
+${\textsf{\color{lightgreen} \textbf \large 🌱 I’m currently learning Flutter}}$<br>
+${\textsf{\color{lightgreen} \textbf \large 💬 Ask me about Flutter, Dart, Python-Django }}$<br>
+${\textsf{\color{lightgreen} \textbf \large 👯 I’m looking to collaborate on Flutter Projects}}$<br>
+${\textsf{\color{lightgreen} \textbf \large 📫 How to reach me }}$ farizaaaa10@gmail.com
 
 
 ${\textsf{\color{lightgreen} \textbf \large 🌐 Socials:}}$
@@ -41,12 +41,10 @@ ${\textsf{\color{lightgreen} \textbf \large 📊 GitHub Stats:}}$
 ${\textsf{\color{lightgreen} \textbf \large ✍️ Echo:}}$
 <h1 align="left"></h1>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Farizaaaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
