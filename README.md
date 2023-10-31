@@ -1,7 +1,7 @@
 [![MasterHead](https://fuertedevelopers.com/assets/Images/flutterdevelopment.gif)](https://rishavchanda.io)
 
 ### Hi there 👋
-##$${\color{red} \textbf hfffffffffffff\fontfamily{ppl}\selectfont Red}$$
+## $${\color{red} \textbf hfffffffffffff\fontfamily{ppl}\selectfont Red}$$
 <h1 align="center" color="white">Hi 👋, I'm Fariza A A</h1>
 
 \vspace{1cm}
