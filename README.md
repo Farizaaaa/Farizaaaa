@@ -2,7 +2,7 @@
 
 
 
-${\textsf{\color{\large{lightgreen}}Hi All}}$
+${\textsf{\color{lightgreen} \large Hi}}$
 $${\color{red} \textbf \large Red}$$
 <h1 align="center" color="white">Hi Guys, I'm Fariza A A</h1>
 
