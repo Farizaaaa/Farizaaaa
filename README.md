@@ -1,6 +1,6 @@
 [![MasterHead](https://fuertedevelopers.com/assets/Images/flutterdevelopment.gif)](https://rishavchanda.io)
 
-$${\color{red} \textbf \textli Red}$$
+$${\color{red} \textbf \textli \large Red}$$
 <h1 align="center" color="white">Hi Guys, I'm Fariza A A</h1>
 
 
