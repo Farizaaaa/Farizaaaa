@@ -1,13 +1,7 @@
 [![MasterHead](https://fuertedevelopers.com/assets/Images/flutterdevelopment.gif)](https://rishavchanda.io)
 
 ### Hi there 👋
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+$${\color{red}Red}$$
 -   ![#f03c15](<h1 align="center" color="white">Hi 👋, I'm Fariza A A</h1>) `#f03c15`
 
 <h3 align="center">A passionate Flutter Developer from India</h3>
