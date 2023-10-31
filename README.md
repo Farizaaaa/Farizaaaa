@@ -3,7 +3,7 @@
 
 
 ${\textsf{\color{lightgreen} \textbf \large Hi, Guys}}$
-$${\textsf{\color{lightgreen} \textbf \large I'm Fariza A A}}$$
+$${\textsf{\color{lightgreen} \textbf \large {\huge I'm Fariza A A}}}$$
 
 <h1 align="center" color="white">Hi Guys, I'm Fariza A A</h1>
 
