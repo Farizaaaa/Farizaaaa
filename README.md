@@ -2,8 +2,9 @@
 
 
 
-${\textsf{\color{lightgreen} \large Hi}}$
-$${\color{red} \textbf \large Red}$$
+${\textsf{\color{lightgreen} \textbf \large Hi, Guys}}$
+$${\textsf{\color{lightgreen} \textbf \large I'm Fariza A A}}$$
+
 <h1 align="center" color="white">Hi Guys, I'm Fariza A A</h1>
 
 
