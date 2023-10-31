@@ -6,13 +6,16 @@ ${\textsf{\color{lightgreen} \textbf \large Hi, Guys}}$
 $${\textsf{\color{lightgreen} \textbf \large {\huge I'm Fariza A A}}}$$
 
 <h1 align="center" color="white"></h1>
+
 $${\textsf{\color{lightgreen} \textbf \large A passionate Flutter Developer from India }}$$
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
-# 💫 About Me:
-
-🔭 I’m currently working on Flutter<br><br>💬 Ask me about Flutter, Python-Django<br><br>🌱 I’m currently learning Flutter<br><br>👯 I’m looking to collaborate on Flutter Projects<br><br>📫 How to reach me farizaaaa10@gmail.com
+${\textsf{\color{lightgreen} \textbf \large 💫 About Me:}}$
+ 
+${\textsf{\color{lightgreen} \textbf \large Hi, Guys}}$
+🔭 I’m currently working on Flutter
+<br><br>💬 Ask me about Flutter, Python-Django<br><br>🌱 I’m currently learning Flutter<br><br>👯 I’m looking to collaborate on Flutter Projects<br><br>📫 How to reach me farizaaaa10@gmail.com
 
 ## 🌐 Socials:
 
