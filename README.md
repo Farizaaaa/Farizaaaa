@@ -1,4 +1,4 @@
-[![MasterHead](images/Flutter%20DEVELOPER%20(1).mp4)](https://rishavchanda.io)
+[![MasterHead](images/Flutter%20DEVELOPER%20(2).png)](https://rishavchanda.io)
 
 
 
@@ -35,17 +35,17 @@ ${\textsf{\color{cyan} \textbf \large 📊 GitHub Stats:}}$
 <h1 align="left"></h1>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farizaaaa&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farizaaaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Farizaaaa&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Farizaaaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Farizaaaa&theme=merko&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Farizaaaa&theme=radical&hide_border=false)<br/>
 
 
 ${\textsf{\color{cyan} \textbf \large ✍️ Echo:}}$
 <h1 align="left"></h1>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
