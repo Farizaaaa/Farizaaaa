@@ -1,4 +1,4 @@
-[![MasterHead](images/Flutter%20DEVELOPER%20(2).png)](https://rishavchanda.io)
+[![MasterHead](images/Add%20a%20heading.png)](https://rishavchanda.io)
 
 
 
