@@ -1,6 +1,6 @@
-[![MasterHead](images/Add%20a%20heading.png)](https://rishavchanda.io)
+[![MasterHead](images/Green%20%20Watercolor%20Aesthetic%20Linkedin%20Banner.png)](https://rishavchanda.io)
 
-${\textsf{\color{cyan} \textbf \large Hi, Guys}}$
+${\textsf{\color{tan} \textbf \large Hi, Guys}}$
 $${\textsf{\color{cyan} \textbf \large {\huge I'm Fariza A A}}}$$
 
 <h1 align="center" color="white"></h1>
