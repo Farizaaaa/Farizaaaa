@@ -1,4 +1,4 @@
-[![MasterHead](images/Green%20%20Watercolor%20Aesthetic%20Linkedin%20Banner.png)](https://rishavchanda.io)
+[![MasterHead](images/Fari.png)](https://rishavchanda.io)
 
 ${\textsf{\color{tan} \textbf \large Hi, Guys}}$
 $${\textsf{\color{tan} \textbf \large {\huge I'm Fariza A A}}}$$
