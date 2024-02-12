@@ -9,7 +9,7 @@ $${\textsf{\color{white} \textbf \large A passionate Flutter Developer from Indi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
-${\textsf{\color{white} \textbf \large 💫 About Me:}}$
+${\textsf{\color{white} \textbf \large  About Me:}}$
 
 <h1 align="left"></h1>
  
@@ -19,7 +19,7 @@ ${\textsf{\color{white} \textbf \large 💬 Ask me about Flutter, Dart, Python-D
 ${\textsf{\color{white} \textbf \large 👯 I’m looking to collaborate on Flutter Projects}}$<br>
 ${\textsf{\color{white} \textbf \large 📫 How to reach me }}$ farizaaaa10@gmail.com
 
-${\textsf{\color{white} \textbf \large 🌐 Socials:}}$
+${\textsf{\color{white} \textbf \large Where to find me:}}$
 
 <h1 align="left"></h1>
 
