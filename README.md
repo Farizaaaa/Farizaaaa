@@ -9,7 +9,7 @@ $${\textsf{\color{white} \textbf \large A passionate Flutter Developer from Indi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
-# About Me:
+## About Me:
 
 <h1 align="left"></h1>
  
