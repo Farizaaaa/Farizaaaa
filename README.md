@@ -12,12 +12,12 @@ $${\textsf{\color{white} \textbf \large A passionate Flutter Developer from Indi
 ### About Me:
 
 
- 
+<!--  
 ${\textsf{\color{white} \textbf \large 🔭 I’m currently working on Flutter}}$<br>
 ${\textsf{\color{white} \textbf \large 🌱 I’m currently learning Flutter}}$<br>
 ${\textsf{\color{white} \textbf \large 💬 Ask me about Flutter, Dart, Python-Django }}$<br>
 ${\textsf{\color{white} \textbf \large 👯 I’m looking to collaborate on Flutter Projects}}$<br>
-${\textsf{\color{white} \textbf \large 📫 How to reach me }}$ farizaaaa10@gmail.com
+${\textsf{\color{white} \textbf \large 📫 How to reach me }}$ farizaaaa10@gmail.com -->
 
 ### Where to find me:
 
