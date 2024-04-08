@@ -12,7 +12,7 @@ $${\textsf{\color{white} \textbf \large A passionate Flutter Developer from Indi
 
 ### About Me:
 
-       I am passionate about working with Flutter, constantly seeking to expand my knowledge and skills while actively contributing to its vibrant community.
+$${\textsf{\color{white} \textbf \small I am passionate about working with Flutter, constantly seeking to expand my knowledge and skills while actively contributing to its vibrant community. }}$$
 
 ###### Ask me about flutter
 
