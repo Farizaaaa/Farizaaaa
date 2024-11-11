@@ -1,6 +1,6 @@
 [![MasterHead](images/Fari.png)](https://rishavchanda.io)
 
-### Hi, Guys
+
 
 $${\textsf{\color{white} \textbf \large {\huge I'm Fariza A A}}}$$
 
