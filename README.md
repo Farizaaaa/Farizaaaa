@@ -29,15 +29,15 @@ $${\textsf{\color{white} \textbf \large A passionate Flutter Developer from Indi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farizaaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
-
+<Br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farizaaaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
-
+<Br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farizaaaa&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
-
+<Br>
 ### Echo:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
