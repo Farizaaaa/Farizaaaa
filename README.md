@@ -2,11 +2,11 @@
 
 
 
-$${\textsf{\color{white} \textbf \large {\huge I'm Fariza A A}}}$$
 
-<h1 align="center" color="white"></h1>
 
-<h2 align="center" color="white">$${\textsf{\color{white} \textbf \large A passionate Flutter Developer from India }}$$</h2>
+<h2 align="center" color="white">$${\textsf{\color{white} \textbf \large {\huge I'm Fariza A A}}}$$</h2>
+
+<h4 align="center" color="white">$${\textsf{\color{white} \textbf \large A passionate Flutter Developer from India }}$$</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="farizaaaa" /> </p>
 
